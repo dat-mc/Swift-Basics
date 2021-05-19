@@ -1,2 +1,2 @@
-# swift-basics
+# Swift basics
 Swift language basics
