@@ -4,3 +4,4 @@ Swift language basics
 2. [Data types](2.%20Data%20types.playground/Contents.swift)
 3. [Basic operators](3.%20Basic%20operators.playground/Contents.swift)
 4. [String interpolation](4.%20String%20interpolation.playground/Contents.swift)
+5. [Arrays](5.%20Arrays.playground/Contents.swift)
