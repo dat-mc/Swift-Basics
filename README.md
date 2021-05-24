@@ -7,3 +7,4 @@ Swift language basics
 5. [Arrays](5.%20Arrays.playground/Contents.swift)
 6. [Dictionaries](6.%20Dictionaries.playground/Contents.swift)
 7. [Sets](7.%20Sets.playground/Contents.swift)
+8. [If statement](8.%20If%20statement.playground/Contents.swift)
