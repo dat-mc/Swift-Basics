@@ -6,3 +6,4 @@ Swift language basics
 4. [String interpolation](4.%20String%20interpolation.playground/Contents.swift)
 5. [Arrays](5.%20Arrays.playground/Contents.swift)
 6. [Dictionaries](6.%20Dictionaries.playground/Contents.swift)
+7. [Sets](7.%20Sets.playground/Contents.swift)
