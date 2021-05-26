@@ -8,3 +8,4 @@ Swift language basics
 6. [Dictionaries](6.%20Dictionaries.playground/Contents.swift)
 7. [Sets](7.%20Sets.playground/Contents.swift)
 8. [If statement](8.%20If%20statement.playground/Contents.swift)
+9. [Guard statement](9.%20Guard%20statement.playground/Contents.swift)
