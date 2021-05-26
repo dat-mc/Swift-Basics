@@ -9,3 +9,4 @@ Swift language basics
 7. [Sets](7.%20Sets.playground/Contents.swift)
 8. [If statement](8.%20If%20statement.playground/Contents.swift)
 9. [Guard statement](9.%20Guard%20statement.playground/Contents.swift)
+10. [Switch statement](10.%20Switch%20statement.playground/Contents.swift)
