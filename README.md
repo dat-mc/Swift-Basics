@@ -11,4 +11,4 @@ Swift language basics
 9. [Guard statement](9.%20Guard%20statement.playground/Contents.swift)
 10. [Switch statement](10.%20Switch%20statement.playground/Contents.swift)
 11. [For-in cycle](11.%20For-in%20cycle.playground/Contents.swift)
-12. [While and repeat-while cycles](2.%20While%2C%20repeat-while%20cycles.playground/Contents.swift)
+12. [While and repeat-while cycles](12.%20While%2C%20repeat-while%20cycles.playground/Contents.swift)
