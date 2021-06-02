@@ -15,3 +15,4 @@ Swift language basics
 13. [Functions](13.%20Functions.playground/Contents.swift)
 14. [Closures](14.%20Closures.playground/Contents.swift)
 15. [Tuples](15.%20Tuples.playground/Contents.swift)
+16. [Optionals](16.%20Optionals.playground/Contents.swift)
