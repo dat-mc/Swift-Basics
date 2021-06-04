@@ -11,7 +11,6 @@ class Human {
     var name: String
     
     // Methods
-    
     func sayHello() -> String {
         return "Hello! My name is \(name)"
     }
