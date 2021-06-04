@@ -18,3 +18,4 @@ Swift language basics
 16. [Optionals](16.%20Optionals.playground/Contents.swift)
 17. [Classes](17.%20Classes.playground/Contents.swift)
 18. [Initialization](18.%20Initialization.playground/Contents.swift)
+19. [Inheritance](19.%20Inheritance.playground/Contents.swift)
