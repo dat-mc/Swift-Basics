@@ -20,3 +20,4 @@ Swift language basics
 18. [Initialization](18.%20Initialization.playground/Contents.swift)
 19. [Inheritance](19.%20Inheritance.playground/Contents.swift)
 20. [Computed properties](20.%20Computed%20properties.playground/Contents.swift)
+21. [Class properties](21.%20Class%20properties.playground/Contents.swift)
