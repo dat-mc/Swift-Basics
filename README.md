@@ -22,3 +22,4 @@ Swift language basics
 20. [Computed properties](20.%20Computed%20properties.playground/Contents.swift)
 21. [Class properties](21.%20Class%20properties.playground/Contents.swift)
 22. [Lazy properties](22.%20Lazy%20properties.playground/Contents.swift)
+23. [Property observers](23.%20Property%20observers.playground/Contents.swift)
