@@ -25,3 +25,4 @@ Swift language basics
 23. [Property observers](23.%20Property%20observers.playground/Contents.swift)
 24. [Type aliases](24.%20Type%20aliases.playground/Contents.swift)
 25. [Enums](25.%20Enums.playground/Contents.swift)
+26. [Structures](26.%20Structures.playground/Contents.swift)
