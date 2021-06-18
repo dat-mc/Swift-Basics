@@ -26,3 +26,4 @@ Swift language basics
 24. [Type aliases](24.%20Type%20aliases.playground/Contents.swift)
 25. [Enums](25.%20Enums.playground/Contents.swift)
 26. [Structures](26.%20Structures.playground/Contents.swift)
+27. [Import](27.%20Import.playground/Contents.swift)
