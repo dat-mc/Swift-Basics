@@ -27,3 +27,4 @@ Swift language basics
 25. [Enums](25.%20Enums.playground/Contents.swift)
 26. [Structures](26.%20Structures.playground/Contents.swift)
 27. [Import](27.%20Import.playground/Contents.swift)
+28. [Type casting](28.%20Type%20casting.playground/Contents.swift)
