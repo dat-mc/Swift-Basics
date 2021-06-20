@@ -28,3 +28,4 @@ Swift language basics
 26. [Structures](26.%20Structures.playground/Contents.swift)
 27. [Import](27.%20Import.playground/Contents.swift)
 28. [Type casting](28.%20Type%20casting.playground/Contents.swift)
+29. [Any type](29.%20Any%20type.playground/Contents.swift)
