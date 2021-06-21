@@ -29,3 +29,4 @@ Swift language basics
 27. [Import](27.%20Import.playground/Contents.swift)
 28. [Type casting](28.%20Type%20casting.playground/Contents.swift)
 29. [Any type](29.%20Any%20type.playground/Contents.swift)
+30. [ARC](30.%20ARC.playground/Contents.swift)
