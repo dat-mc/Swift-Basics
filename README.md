@@ -33,3 +33,4 @@ Swift language basics
 31. [Optional chaining](31.%20Optional%20chaining.playground/Contents.swift)
 32. [Error handling](32.%20Error%20handling.playground/Contents.swift)
 33. [Subscripts](33.%20Subscripts.playground/Contents.swift)
+34. [Extensions](34.%20Extensions.playground/Contents.swift)
